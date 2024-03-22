@@ -1,0 +1,19 @@
+.Home {
+    padding: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.title-home {
+    color: rgb(150, 150, 228);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.game-rules{
+    color: teal;
+    font-size: 20px;
+    font-weight: bold;
+
+}
